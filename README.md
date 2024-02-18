@@ -2,9 +2,9 @@
 <h3 align="center">An Informatics Student with a high interest learner and ambitious especially about web development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **Academic information site for Atma Jaya University Workers**
+- 🔭 currently I am doing a bootcamp named Bootcamp Techno Center at **Berijalan**
 
-- 🌱 I’m currently learning **Vite, Tailwind, SQL Server Management Studio, ASP.NET MVC & C#**
+- 🌱 I’m currently learning **Next.JS, Tailwind, MSSQL, ASP .NET MVC, and C#**
 
 - 📫 How to reach me **wahyusutantopamungkas@gmail.com**
 
