@@ -2,7 +2,7 @@
 <h3 align="center">An Informatics Student with a high interest learner and ambitious especially about web development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 currently I am doing a bootcamp named Bootcamp Techno Center at **Berijalan**
+- 🔭 I am a Freelance .NET Develoeper at **Berijalan** Member of **ASTRA**
 
 - 🌱 I’m currently learning **Next.JS, Tailwind, MSSQL, ASP .NET MVC, and C#**
 
